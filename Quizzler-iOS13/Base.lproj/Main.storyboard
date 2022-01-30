@@ -98,7 +98,7 @@
                         <outlet property="falseButton" destination="tbn-vQ-GyC" id="9o9-Wf-V3A"/>
                         <outlet property="progressBar" destination="TXm-qh-7Xg" id="8R9-V9-qGg"/>
                         <outlet property="questionLable" destination="rSI-li-mhO" id="820-22-gh3"/>
-                        <outlet property="trueButton" destination="tbn-vQ-GyC" id="Gwu-07-Are"/>
+                        <outlet property="trueButton" destination="oVw-Hl-IRe" id="IEP-fL-thb"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
