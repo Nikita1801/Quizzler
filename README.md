@@ -1,6 +1,7 @@
 
 #  Quizzler
 
+# Pattern is MVC
 
 ## What is this app for
 
